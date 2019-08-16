@@ -14,9 +14,9 @@ The Dishonest Casino_BWT result:
 
 ## SciPy
 Before:
-!(Building Area_Before)[https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Building%20Area_Before.png]
-!(Land Area_Before)[https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Land%20Area_Before.png]
+![Building Area_Before](https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Building%20Area_Before.png)
+![Land Area_Before](https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Land%20Area_Before.png)
 
 After:
-!(Building Area_After)[https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Building%20Area_After.png]
-!(Land Area_After)[https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Land%20Area_After.png]
+![Building Area_After](https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Building%20Area_After.png)
+![Land Area_After](https://github.com/J-I-P/Summer_course/blob/master/SciPy/%20result%20picture/Land%20Area_After.png)
